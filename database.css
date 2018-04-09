@@ -1,0 +1,15 @@
+.title {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+.instructions {
+    font-family: 'PT Sans', sans-serif;
+}
+.headerimage {
+    margin:0px auto;
+    display:block;
+    height: 300px;
+}
+.form-group {
+    width: 50%;
+}
