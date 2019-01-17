@@ -40,8 +40,9 @@
                <button type="submit" class="btn btn-primary">Sign in</button>
            </form>
            <div class="dropdown-divider"></div>
-           <a class="dropdown-item" href="#">New around here? Sign up</a>
+           <a class="dropdown-item" href="#">New around here? Please ask a librarian to help you sign up!</a>
            <a class="dropdown-item" href="#">Forgot password?</a>
+           <a class="dropdown-item" href="index.php">Search without logging in?</a>
        </div>
    </body>
 </html>
